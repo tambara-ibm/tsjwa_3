@@ -8,8 +8,4 @@ public class Book {
         this.name = name;
         this.isbn = isbn;
     }
-
-    public Book(String line) {
-        //TODO Auto-generated constructor stub
-    }
 }
